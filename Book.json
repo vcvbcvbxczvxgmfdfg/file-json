@@ -1,0 +1,81 @@
+[
+    {
+        "bookId": 1,
+        "bookName": "The Name of the Wind",
+        "author": "Patrick Rothfuss",
+        "image": "https://doctortdesigns.files.wordpress.com/2013/09/64265-screenshot2013-07-29at7-41-38pm.png",
+        "review": "The Name of the Wind is a captivating fantasy novel that follows the life of Kvothe, a gifted young man with a mysterious past. Set in a richly detailed world of magic and music, the story unfolds through Kvothe's recollections as he recounts his adventures, struggles, and triumphs. Rothfuss's prose is elegant and immersive, drawing readers into a world filled with intrigue, danger, and wonder. With its complex characters, intricate plot, and lyrical writing, The Name of the Wind is a must-read for fans of epic fantasy.",
+        "totalPages": 662,
+        "rating": 4.7,
+        "category": "Fantasy",
+        "tags": ["Magic", "Adventure", "Music"],
+        "publisher": "DAW Books",
+        "yearOfPublishing": 2007
+    },
+    {
+        "bookId": 2,
+        "bookName": "A Song of Ice and Fire",
+        "author": "George R.R. Martin",
+        "image": "https://upload.wikimedia.org/wikipedia/en/d/dc/A_Song_of_Ice_and_Fire_book_collection_box_set_cover.jpg",
+        "review": "A Song of Ice and Fire is a sprawling epic that transports readers to the medieval-inspired world of Westeros, where noble houses vie for power and control. Martin's masterful storytelling weaves together the tales of numerous characters, each with their own ambitions, secrets, and conflicts. With its intricate political intrigue, complex characters, and unexpected twists, A Song of Ice and Fire has become a cultural phenomenon, captivating readers around the world.",
+        "totalPages": 694,
+        "rating": 4.6,
+        "category": "Fantasy",
+        "tags": ["Epic", "Intrigue", "Politics"],
+        "publisher": "Bantam Books",
+        "yearOfPublishing": 1996
+    },
+    {
+        "bookId": 3,
+        "bookName": "The Night Circus",
+        "author": "Erin Morgenstern",
+        "image": "https://mir-s3-cdn-cf.behance.net/project_modules/max_632/785ce424173983.56330dfd654bc.png",
+        "review": "The Night Circus is a mesmerizing tale of love, magic, and mystery set within the enchanting world of a magical circus that appears without warning and disappears just as mysteriously. Morgenstern's lush prose and vivid imagery bring the circus to life, evoking a sense of wonder and awe in readers. As the fates of the circus's inhabitants become intertwined, secrets are revealed, alliances are formed, and destinies are fulfilled in this spellbinding and atmospheric novel.",
+        "totalPages": 387,
+        "rating": 4.5,
+        "category": "Fantasy",
+        "tags": ["Magic", "Romance", "Mystery"],
+        "publisher": "Doubleday",
+        "yearOfPublishing": 2011
+    },
+    {
+        "bookId": 4,
+        "bookName": "The Secret History",
+        "author": "Donna Tartt",
+        "image": "https://www.mindjoggle.com/wp-content/uploads/2020/03/the-secret-history.png",
+        "review": "The Secret History is a compelling and darkly atmospheric novel that delves into the lives of a group of privileged college students studying classics at an elite New England university. As the story unfolds, secrets are revealed, relationships are tested, and moral boundaries are crossed, leading to tragic consequences. Tartt's haunting prose and complex characters make this a gripping read that explores themes of identity, morality, and the pursuit of knowledge.",
+        "totalPages": 559,
+        "rating": 4.4,
+        "category": "Fiction",
+        "tags": ["Mystery", "Thriller", "College"],
+        "publisher": "Alfred A. Knopf",
+        "yearOfPublishing": 1992
+    },
+    {
+        "bookId": 5,
+        "bookName": "The Goldfinch",
+        "author": "Donna Tartt",
+        "image": "https://s3.us-west-1.wasabisys.com/idbwmedia.com/images/the_goldfinch.png",
+        "review": "The Goldfinch is a sprawling and immersive novel that follows the life of Theo Decker, a young boy who survives a tragic terrorist attack at an art museum that claims his mother's life. As Theo navigates the complexities of grief, guilt, and identity, he becomes entangled in the world of art forgery and underground crime. Tartt's vivid prose and richly drawn characters create a mesmerizing portrait of love, loss, and redemption.",
+        "totalPages": 771,
+        "rating": 4.3,
+        "category": "Fiction",
+        "tags": ["Art", "Crime", "Redemption"],
+        "publisher": "Little, Brown and Company",
+        "yearOfPublishing": 2013
+    },
+    {
+        "bookId": 6,
+        "bookName": "American Gods",
+        "author": "Neil Gaiman",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLBqX4dKmhdS370xP_IDY6wS7jn-j1LMAb7H2Xe4mb9SImajPp6vk0WgcEpv3XIdl6aRUPsUOvlLwQxvRuu3NKHJpPI-_2FLE7Ztru7qzk-Qskw976vJIYklOjTDj1BY3rrvgSyzaVZbPI/s640/9-22-16+american+gods.png",
+        "review": "American Gods is a modern mythological masterpiece that blends ancient folklore with contemporary America. Shadow Moon, a recently released convict, finds himself drawn into a conflict between the Old Gods of mythology and the New Gods of technology and media. As Shadow journeys across America, he encounters gods, monsters, and other mythical beings, all vying for power and influence in the modern world. Gaiman's writing is immersive and imaginative, exploring themes of belief, identity, and the nature of divinity.",
+        "totalPages": 635,
+        "rating": 4.6,
+        "category": "Fantasy",
+        "tags": ["Mythology", "Road Trip", "Gods"],
+        "publisher": "William Morrow",
+        "yearOfPublishing": 2001
+    }
+
+]
