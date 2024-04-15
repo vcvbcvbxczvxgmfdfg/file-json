@@ -1,0 +1,75 @@
+[
+  {
+    "id": 1,
+    "estate_title": "Luxury Penthouse Apartment",
+    "segment_name": "Apartment",
+    "description": "Indulge in the height of luxury living with this stunning penthouse apartment situated in the heart of the city. Perched atop a prestigious high-rise building, this expansive residence offers breathtaking panoramic views of the skyline and beyond. The sleek and modern interior boasts high-end finishes, designer fixtures, and floor-to-ceiling windows that flood the space with natural light. Entertain guests in the spacious living area, complete with a gourmet kitchen, formal dining area, and cozy fireplace. Retreat to the master suite, where you'll find a sumptuous ensuite bathroom, walk-in closet, and private terrace overlooking the city. Additional highlights include a home office, media room, and access to exclusive building amenities such as a fitness center, swimming pool, and concierge services. With its unbeatable location and luxurious amenities, this penthouse offers a lifestyle of unparalleled sophistication and convenience.",
+    "price": "$3,500,000",
+    "status": "sale",
+    "area": "4000 sq ft",
+    "location": "Downtown Luxury Tower, Skyline Heights",
+    "facilities": ["3 bedrooms", "3.5 bathrooms", "Gourmet kitchen", "Fireplace", "Private terrace"],
+    "image": "https://images.pexels.com/photos/4969837/pexels-photo-4969837.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "id": 2,
+    "estate_title": "Charming Townhouse",
+    "segment_name": "Townhouse",
+    "description": "Welcome to this charming townhouse nestled in a quiet residential neighborhood, offering the perfect blend of comfort and convenience. Step inside to discover a bright and airy living space adorned with hardwood floors, elegant crown molding, and plenty of natural light. The spacious kitchen features modern appliances, ample cabinet space, and a cozy breakfast nook, perfect for enjoying morning coffee or casual meals with family. Upstairs, you'll find three well-appointed bedrooms, including a serene master suite with a private ensuite bathroom and walk-in closet. Outside, the fenced backyard provides a private retreat for outdoor entertaining or relaxation, with a patio area and lush landscaping. With its prime location near top-rated schools, parks, and shopping centers, this townhouse offers the perfect opportunity to enjoy low-maintenance living in a desirable community.",
+    "price": "$600,000",
+    "status": "sale",
+    "area": "2000 sq ft",
+    "location": "Suburban Enclave, Willow Creek",
+    "facilities": ["3 bedrooms", "2.5 bathrooms", "Hardwood floors", "Fenced backyard", "Patio"],
+    "image": "https://imagetolink.com/ib/DWlddFTSVU"
+  },
+  {
+    "id": 3,
+    "estate_title": "Student Housing Complex",
+    "segment_name": "Student Housing",
+    "description": "Invest in the future with this lucrative student housing complex located within walking distance of a major university campus. This purpose-built facility offers modern accommodations tailored to the needs of today's students, with a range of unit sizes and configurations to suit individual preferences and budgets. Each fully furnished apartment includes spacious living areas, private bedrooms, and modern amenities such as high-speed internet and on-site laundry facilities. Residents can enjoy community amenities including a fitness center, study lounges, and outdoor recreation areas. With a steady demand for student housing and a prime location near campus, this investment opportunity promises strong returns and long-term stability.",
+    "price": "$5,000,000",
+    "status": "sale",
+    "area": "10000 sq ft",
+    "location": "University District, College Heights",
+    "facilities": ["Multiple units", "Fully furnished", "Fitness center", "Study lounges", "On-site laundry"],
+    "image": "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "id": 4,
+    "estate_title": "Senior Living Community",
+    "segment_name": "Senior Living",
+    "description": "Experience the ultimate in retirement living with this exclusive senior living community designed for active adults aged 55 and older. Nestled on beautifully landscaped grounds, this gated community offers a serene and secure environment where residents can enjoy an independent lifestyle with peace of mind. Choose from a variety of spacious floor plans, each thoughtfully designed for comfort and convenience, with features such as open-concept living areas, modern kitchens, and private balconies or patios. Community amenities include a clubhouse with social and recreational activities, a fitness center, walking trails, and lush gardens. With an array of services and amenities tailored to the needs of seniors, this community provides the perfect setting for enjoying retirement to the fullest.",
+    "price": "$800,000",
+    "status": "sale",
+    "area": "3000 sq ft",
+    "location": "Retirement Haven, Silver Springs",
+    "facilities": ["Gated community", "Clubhouse", "Fitness center", "Walking trails", "Balcony/patio"],
+    "image": "https://images.pexels.com/photos/323780/pexels-photo-323780.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "id": 5,
+    "estate_title": "Luxury Vacation Rental",
+    "segment_name": "Vacation Rental",
+    "description": "Escape to paradise with this luxurious vacation rental situated in a tropical beachfront oasis. This stunning property offers the ultimate in luxury and relaxation, with direct access to a pristine sandy beach and panoramic views of the sparkling ocean. The spacious interior features elegant furnishings, high-end finishes, and modern amenities, including a gourmet kitchen, spacious living areas, and luxurious bedrooms with ensuite bathrooms. Outside, the expansive terrace is perfect for al fresco dining, lounging in the sun, or taking a dip in the private pool. With its idyllic location and luxurious amenities, this vacation rental provides the perfect setting for a dream getaway.",
+    "price": "$1,500/night",
+    "status": "rent",
+    "area": "4000 sq ft",
+    "location": "Beachfront Paradise, Palm Cove",
+    "facilities": ["5 bedrooms", "5 bathrooms", "Gourmet kitchen", "Private pool", "Beach access"],
+    "image": "https://kamleshyadav.com/wp/inland/wp-content/uploads/2020/01/blog3-525x335.jpg"
+  },
+  {
+    "id": 6,
+    "estate_title": "Family-Friendly Suburban Home",
+    "segment_name": "Single-family Home",
+    "description": "Welcome to this spacious and inviting single-family home located in a family-friendly suburban neighborhood. With its traditional charm and modern amenities, this home offers the perfect blend of comfort and convenience for busy families. The main level features a bright and airy living room, a gourmet kitchen with stainless steel appliances, and a cozy breakfast nook overlooking the backyard. Upstairs, you'll find four well-appointed bedrooms, including a luxurious master suite with a private ensuite bathroom and walk-in closet. Outside, the fenced backyard provides plenty of room for outdoor activities, with a patio area, lush lawn, and mature landscaping. With its prime location near top-rated schools, parks, and shopping centers, this home is the ideal setting for creating lasting memories with your loved ones.",
+    "price": "$700,000",
+    "status": "sale",
+    "area": "2500 sq ft",
+    "location": "Suburban Oasis, Oakwood Heights",
+    "facilities": ["4 bedrooms", "2.5 bathrooms", "Gourmet kitchen", "Fenced backyard", "Patio"],
+    "image": "https://kamleshyadav.com/wp/inland/wp-content/uploads/2020/01/blog2-525x335.jpg"
+  }
+]
+
